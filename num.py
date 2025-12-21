@@ -1,6 +1,6 @@
 import numpy 
 
-myList = [1, 2, 3, 4]
+myList = numpy.array([1, 2, 3, 4])
 
 myList = myList * 2
 
