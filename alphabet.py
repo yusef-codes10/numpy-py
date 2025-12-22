@@ -5,3 +5,8 @@ alphabet = [
 ]
 
 print(alphabet)
+
+# we are going to concatneate a word from that array
+# string concatenation is simply addig strings
+word = alphabet[0, 0, 0]
+print(word)
