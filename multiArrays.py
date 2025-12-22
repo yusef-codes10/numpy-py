@@ -43,3 +43,6 @@ print(matrix.shape)
 # ! Chain indexing vs MultiDimensional indexing
 # this is the regular chain indexing
 print(matrix3D[0][0][2])
+
+# with numpy, we can do multi-dimensional indexing
+print(matrix3D[0, 0, 2])
