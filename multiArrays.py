@@ -30,6 +30,7 @@ print(matrix[0][0])
 
 # accessing the 3D array value
 print(matrix3D[0][0][0])
+print(matrix.shape)
 
 
 # ! key lesson: a n-D array is basically an array of (n-1D) arrays
