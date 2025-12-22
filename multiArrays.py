@@ -34,3 +34,7 @@ print(matrix3D)
 
 
 # ! key lesson: a n-D array is basically an array of (n-1D) arrays
+# 1D array [i]
+# 2D array [i] [j]
+# 4D array [i] [j] [k]
+# 5D array [i] [j] [k] [l]
