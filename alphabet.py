@@ -10,5 +10,5 @@ print(alphabet)
 
 # we are going to concatneate a word from that array
 # string concatenation is simply addig strings
-word = alphabet[0, 0, 0]
+word = alphabet[2, 2, 0] + alphabet[2, 0, 2] + alphabet[2, 0, 0] + alphabet[0, 1, 1] + alphabet[0, 1, 2]
 print(word)
