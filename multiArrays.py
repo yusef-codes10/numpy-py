@@ -21,3 +21,13 @@ matrix = np.array([[1, 2, 3],
 
 print(f"Dimenions: {matrix.ndim}")
 print(matrix)
+
+# 4- 3D array (beyonf imagination)
+matrix3D = np.array(
+    [[[1, 2, 3],[4, 5, 6],[7, 8, 9]]
+     [[1, 2, 3],[4, 5, 6],[7, 8, 9]]
+     [[1, 2, 3],[4, 5, 6],[7, 8, 9]]] 
+)
+
+print(f"Dimenions: {matrix3D.ndim}")
+print(matrix3D)
