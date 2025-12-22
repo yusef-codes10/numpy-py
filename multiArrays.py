@@ -31,3 +31,6 @@ matrix3D = np.array(
 
 print(f"Dimenions: {matrix3D.ndim}")
 print(matrix3D)
+
+
+# ! key lesson: a n-D array is basically an array of (n-1D) arrays
