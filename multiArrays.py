@@ -38,3 +38,8 @@ print(matrix.shape)
 # 2D array [i] [j]
 # 4D array [i] [j] [k]
 # 5D array [i] [j] [k] [l]
+
+
+# ! Chain indexing vs MultiDimensional indexing
+# this is the regular chain indexing
+print(matrix3D[0][0][2])
