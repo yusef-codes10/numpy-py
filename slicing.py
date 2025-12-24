@@ -7,3 +7,4 @@ array = np.array([[1, 2, 3, 4],
                   [13, 14, 15, 16]])
 
 # array['slice expression']
+# array[start:end:step] there are 3 indeces saparated by the :
