@@ -23,3 +23,4 @@ print(alphabet[0][0])
 # 3- 2D array (Matric), belongs to ℝⁿᵐ
 print(alphabet[0])
 
+# ! A dimension is the number of indeces needed to reach a scalar
