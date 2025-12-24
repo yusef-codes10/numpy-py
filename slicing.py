@@ -13,4 +13,8 @@ array = np.array([[1, 2, 3, 4],
 # print(array[0]) # get the first array(row)
 
 # we can select a range, we need both a start&end indeces
-print(array[0:2]) # get the 1st two rows (end is exclusive)
+# print(array[0:2]) # get the 1st two rows (end is exclusive)
+
+
+# getting every second ros (using the step)
+print(array[1:4:2])
