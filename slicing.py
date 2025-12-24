@@ -10,4 +10,7 @@ array = np.array([[1, 2, 3, 4],
 # array[start:end:step] there are 3 indeces saparated by the :
 
 # example of the start index
-print(array[0]) # get the first array(row)
+# print(array[0]) # get the first array(row)
+
+# we can select a range, we need both a start&end indeces
+print(array[0:2]) # get the 1st two rows (end is exclusive)
