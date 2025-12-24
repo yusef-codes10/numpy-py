@@ -24,4 +24,7 @@ array = np.array([[1, 2, 3, 4],
 # print(array[:, 0])
 
 # get the 1st 3 columns
-print(array[:, 0:3])
+# print(array[:, 0:3])
+
+print(array[0:2, 2:4])
+
