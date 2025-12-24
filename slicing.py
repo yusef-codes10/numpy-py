@@ -1,4 +1,9 @@
 import numpy as np
 
 # we need a 2D array to work with
-array = np.array([[], [], [], []])
+array = np.array([[1, 2, 3, 4],
+                  [5, 6, 7, 8],
+                  [9, 10, 11, 12],
+                  [13, 14, 15, 16]])
+
+# array['slice expression']
