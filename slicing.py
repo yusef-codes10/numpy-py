@@ -17,4 +17,4 @@ array = np.array([[1, 2, 3, 4],
 
 
 # getting every second ros (using the step)
-print(array[1:4:2])
+print(array[::2])
