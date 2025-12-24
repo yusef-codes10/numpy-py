@@ -12,3 +12,14 @@ print(alphabet)
 # string concatenation is simply addig strings
 word = alphabet[2, 2, 0] + alphabet[2, 0, 2] + alphabet[2, 0, 0] + alphabet[0, 1, 1] + alphabet[0, 1, 2]
 print(word)
+
+# explain the length & R
+# 1- scalar, belongs to R
+print(alphabet[0][0][0])
+
+# 2- 1D array, belongs to ℝⁿ n is the length (in this case 3)
+print(alphabet[0][0])
+
+# 3- 2D array (Matric), belongs to ℝⁿᵐ
+print(alphabet[0])
+
