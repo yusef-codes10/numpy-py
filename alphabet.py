@@ -25,6 +25,9 @@ print(alphabet[0])
 
 # ! A dimension is the number of indeces needed to reach a scalar
 
-
+# ! getting the dimension
 # using ndim
 print(alphabet.ndim)
+
+# using shape
+print(alphabet.shape)
