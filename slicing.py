@@ -21,4 +21,7 @@ array = np.array([[1, 2, 3, 4],
 
 
 # to seelct columns we use the comma 
-print(array[:, 0])
+# print(array[:, 0])
+
+# get the 1st 3 columns
+print(array[:, 0:3])
