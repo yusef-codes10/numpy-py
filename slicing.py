@@ -17,4 +17,8 @@ array = np.array([[1, 2, 3, 4],
 
 
 # getting every second ros (using the step)
-print(array[::2])
+# print(array[::2])
+
+
+# to seelct columns we use the comma 
+print(array[0, 0])
